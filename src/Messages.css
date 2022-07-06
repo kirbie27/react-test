@@ -1,0 +1,16 @@
+.MessageInRoot {
+    color: white;
+    font-size: calc(0.8rem + 2vmin);;
+}
+
+.MessageDiv {
+    max-width: 30vw;
+    width: 100%;
+    background-color: rgb(240, 62, 106);
+}
+
+.MessageDiv:hover {
+    cursor: pointer;
+    background-color: rgb(207, 41, 83);
+}
+
